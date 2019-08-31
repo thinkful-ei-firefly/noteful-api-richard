@@ -35,3 +35,9 @@
 {"message":"Empty .update() call detected! Update data does not contain any values to update. This will result in a faulty query.","level":"error"}
 {"message":"Empty .update() call detected! Update data does not contain any values to update. This will result in a faulty query.","level":"error"}
 {"message":"Empty .update() call detected! Update data does not contain any values to update. This will result in a faulty query.","level":"error"}
+{"message":"insert into \"notes\" (\"content\", \"folderId\", \"modified\", \"title\") values ($1, $2, $3, $4) returning * - column \"folderId\" of relation \"notes\" does not exist","level":"error"}
+{"message":"insert into \"notes\" (\"content\", \"folderId\", \"modified\", \"title\") values ($1, $2, $3, $4) returning * - column \"folderId\" of relation \"notes\" does not exist","level":"error"}
+{"message":"insert into \"notes\" (\"content\", \"folderId\", \"modified\", \"title\") values ($1, $2, $3, $4) returning * - column \"folderId\" of relation \"notes\" does not exist","level":"error"}
+{"message":"insert into \"notes\" (\"content\", \"folderId\", \"modified\", \"title\") values ($1, $2, $3, $4) returning * - column \"folderId\" of relation \"notes\" does not exist","level":"error"}
+{"message":"insert into \"notes\" (\"content\", \"folderId\", \"modified\", \"title\") values ($1, $2, $3, $4) returning * - column \"folderId\" of relation \"notes\" does not exist","level":"error"}
+{"message":"insert into \"notes\" (\"content\", \"folderId\", \"modified\", \"title\") values ($1, DEFAULT, $2, $3) returning * - column \"folderId\" of relation \"notes\" does not exist","level":"error"}
